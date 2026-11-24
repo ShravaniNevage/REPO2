@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZADOBE_STORE000",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZADOBE_STORE000",
+  "sapObjectType": "ZADOBE_STORE000",
+  "rootNode": true
+}
